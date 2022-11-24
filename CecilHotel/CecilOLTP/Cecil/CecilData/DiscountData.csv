@@ -1,0 +1,7 @@
+DiscountID,DiscType,DiscValue
+,NA,0
+,Gov/Military,0.4
+,AAA/CAA,0.25
+,Senior,0.2
+,Employee,0.35
+,Friends/Family,0.15

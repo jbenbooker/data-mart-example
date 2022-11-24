@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CecilDMDocumentation", "CecilDMDocumentation", "{7DFA8B9C-457F-4FDF-8721-A5B5358B6AE2}"
+	ProjectSection(SolutionItems) = preProject
+		CecilDMDocumentation\CecilDMDevelopmentPlan.docx = CecilDMDocumentation\CecilDMDevelopmentPlan.docx
+		CecilDMDocumentation\CecilDMObjectWorksheet.xlsx = CecilDMDocumentation\CecilDMObjectWorksheet.xlsx
+		CecilDMDocumentation\CecilDMStarSchema.vsdx = CecilDMDocumentation\CecilDMStarSchema.vsdx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CecilDMBuild", "CecilDMBuild", "{E01550BA-B444-4E17-9B06-A48CC83DBFD0}"
+	ProjectSection(SolutionItems) = preProject
+		CecilDMBuild\CecilDMBuild.sql = CecilDMBuild\CecilDMBuild.sql
+	EndProjectSection
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "CecilDMETL", "CecilDMETL\CecilDMETL.dtproj", "{2269D31F-E5B7-465B-9CE4-B5C2A08EC36C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CecilDMMultidimensionalAnalysis", "CecilDMMultidimensionalAnalysis", "{54B05CCD-98C8-4ED0-82FC-5D18BFFD245D}"
+	ProjectSection(SolutionItems) = preProject
+		CecilDMMultidimensionalAnalysis\CecilDMMultidimensionalAnalysis.xlsx = CecilDMMultidimensionalAnalysis\CecilDMMultidimensionalAnalysis.xlsx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CecilDMReportsandDashboards", "CecilDMReportsandDashboards", "{2BC29355-3A4C-4125-9274-8E58529755BB}"
+	ProjectSection(SolutionItems) = preProject
+		CecilDMReportsandDashboards\CecilDMReportsandDashboards.pbix = CecilDMReportsandDashboards\CecilDMReportsandDashboards.pbix
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2269D31F-E5B7-465B-9CE4-B5C2A08EC36C}.Development|Default.ActiveCfg = Development
+		{2269D31F-E5B7-465B-9CE4-B5C2A08EC36C}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2060E84-D54F-4796-8DB4-CD2C2CB8E411}
+	EndGlobalSection
+EndGlobal

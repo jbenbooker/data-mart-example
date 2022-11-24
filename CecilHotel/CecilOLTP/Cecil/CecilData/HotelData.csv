@@ -1,0 +1,9 @@
+HotelID,BrandID,HotelName,HotelNumRoom,HotelRating,HotelStreet,HotelCity,HotelState,HotelZip,HotelPhone,HotelBuildYear,HotelRenoYear
+,1,Cottage,191,3,26 Dryden Circle,Miami,FL,33261,(305) 8347414,1965,1996
+,3,Wild,126,3,7335 Charing Cross Park,Austin,TX,78778,(512) 1756799,1993,2001
+,2,Bela,154,5,74 La Follette Court,Richmond,VA,23208,(804) 4094726,2001,2012
+,3,Black Dog,228,5,9349 Muir Plaza,Bronx,NY,10469,(347) 1377968,2007,2018
+,2,La Mancha,252,3,81265 Thackeray Avenue,Fairfax,VA,22036,(571) 6605048,1990,1999
+,1,Fire Sky,70,4,05997 Morningstar Point,Atlanta,GA,31196,(404) 8600111,1988,2005
+,1,Viviane,223,5,4 Red Cloud Center,Las Cruces,NM,88006,(505) 1956522,2001,9999
+,2,India,251,4,40 Arizona Way,San Diego,CA,92105,(619) 6445969,1993,2010
